@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesminingpool)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cubesonthewater_bot)
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/CubesBot)
 
 
 ## Recommendation before use
@@ -22,7 +22,7 @@
 | Support for tdata / pyrogram .session / telethon .session |     ✅     |
 
 
-## [Settings](https://github.com/TheEmperorGh/CubesOnTheWaterBot/blob/main/.env-example/)
+## [Settings](https://github.com/TheEmperorGh/CubesBot/blob/main/.env-example/)
 | Settings                         |                                Description                                 |
 |----------------------------------|:--------------------------------------------------------------------------:|
 | **API_ID / API_HASH**            |  Platform data from which to run the Telegram session (default - android)  |
@@ -44,10 +44,10 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/TheEmperorGh/CubesOnTheWaterBot) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/TheEmperorGh/CubesBot) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/TheEmperorGh/CubesOnTheWaterBot.git
-cd CubesOnTheWaterBot
+git clone https://github.com/TheEmperorGh/CubesBot.git
+cd CubesBot
 ```
 
 Then you can do automatic installation by typing:
@@ -74,9 +74,9 @@ python3 main.py
 
 You can also use arguments for quick start, for example:
 ```shell
-~/CubesOnTheWater_Bot >>> python3 main.py --action (1/2)
+~/CubesBot >>> python3 main.py --action (1/2)
 # Or
-~/CubesOnTheWater_Bot >>> python3 main.py -a (1/2)
+~/CubesBot >>> python3 main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session
@@ -94,9 +94,9 @@ python main.py
 
 You can also use arguments for quick start, for example:
 ```shell
-~/CubesOnTheWater_Bot >>> python main.py --action (1/2)
+~/CubesBot >>> python main.py --action (1/2)
 # Or
-~/CubesOnTheWater_Bot >>> python main.py -a (1/2)
+~/CubesBot >>> python main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session
