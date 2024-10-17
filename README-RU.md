@@ -22,7 +22,7 @@
 | Поддержка tdata / pyrogram .session / telethon .session         |       ✅        |
 
 
-## [Настройки](https://github.com/TheEmperorGh/CubesOnTheWaterBot/blob/main/.env-example/)
+## [Настройки](https://github.com/TheEmperorGh/CubesBot/blob/main/.env-example/)
 | Настройка                        |                                             Описание                                              |
 |----------------------------------|:-------------------------------------------------------------------------------------------------:|
 | **API_ID / API_HASH**            |              Данные платформы, с которой запускать сессию Telegram (сток - Android)               | 
@@ -44,10 +44,10 @@
 3. Запишите `API_ID` и `API_HASH` в файле `.env`, предоставленные после регистрации вашего приложения.
 
 ## Установка
-Вы можете скачать [**Репозиторий**](https://github.com/TheEmperorGh/CubesOnTheWaterBot) клонированием на вашу систему и установкой необходимых зависимостей:
+Вы можете скачать [**Репозиторий**](https://github.com/TheEmperorGh/CubesBot) клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
-git clone https://github.com/TheEmperorGh/CubesOnTheWaterBot.git
-cd CubesOnTheWaterBot
+git clone https://github.com/TheEmperorGh/CubesBot.git
+cd CubesBot
 ```
 
 Затем для автоматической установки введите:
@@ -74,9 +74,9 @@ python3 main.py
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
-~/CubesOnTheWater_Bot >>> python3 main.py --action (1/2)
+~/CubesBot >>> python3 main.py --action (1/2)
 # Or
-~/CubesOnTheWater_Bot >>> python3 main.py -a (1/2)
+~/CubesBot >>> python3 main.py -a (1/2)
 
 # 1 - Запускает кликер
 # 2 - Создает сессию
@@ -95,9 +95,9 @@ python main.py
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
-~/CubesOnTheWater_Bot >>> python main.py --action (1/2)
+~/CubesBot >>> python main.py --action (1/2)
 # Или
-~/CubesOnTheWater_Bot >>> python main.py -a (1/2)
+~/CubesBot >>> python main.py -a (1/2)
 
 # 1 - Запускает кликер
 # 2 - Создает сессию
@@ -108,4 +108,4 @@ python main.py
 
 ### Контакты
 
-Для поддержки или вопросов, свяжитесь со мной в Telegram: [@UNKNXWNPLXYA](https://t.me/UNKNXWNPLXYA)
+Для поддержки или вопросов, свяжитесь со мной в Telegram: [@UNKNXWNPLXYA](https://t.me/theemperorte)
